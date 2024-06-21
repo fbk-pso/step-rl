@@ -13,3 +13,11 @@ STEP-RL will study the foundations of a new approach to Temporal Planning that w
 STEP-RL will advance the state of the art in temporal planning beyond the "efficiency vs flexibility" dilemma, that we faced in many industrial projects of the PSO unit.
 
 More information about the STEP-RL project can be found in the [STEP-RL project website](https://pso.fbk.eu/articles/step-rl/).
+
+
+## Acknowledgments
+
+<img src="https://www.aiplan4eu-project.eu/wp-content/uploads/2021/07/euflag.png" width="60" height="40">
+
+The STEP-RL project is a Starting Grant funded by the [European Research Council](https://erc.europa.eu) under grant agreement number 101115870.
+The PI of the project is [Andrea Micheli](https://andrea.micheli.website).
