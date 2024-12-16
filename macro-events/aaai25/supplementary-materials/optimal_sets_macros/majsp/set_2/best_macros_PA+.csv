@@ -1,0 +1,5 @@
+macros
+('load_at_depot_r1_b0'  'move_r1_p5'  'move_r1_p5'  'make_treatment_r1_b0_p5'  'make_treatment_r1_b0_p5')
+('move_r1_p5'  'move_r1_p5'  'make_treatment_r1_b0_p5'  'make_treatment_r1_b0_p5'  'load_r1_b0_p5')
+('move_r0_DEPOT'  'move_r0_DEPOT'  'unload_at_depot_r0'  'load_at_depot_r0_b2'  'move_r0_p3')
+('move_r1_p5'  'make_treatment_r1_b0_p5'  'make_treatment_r1_b0_p5'  'load_r1_b0_p5'  'load_r1_b0_p5')

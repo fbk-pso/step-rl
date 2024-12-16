@@ -1,0 +1,9 @@
+macros
+('load_at_depot_r0_b0'  'move_r0_p0'  'move_r0_p0'  'make_treatment_r0_b0_p0'  'make_treatment_r0_b0_p0')
+('load_at_depot_r0_b0'  'move_r0_p2'  'move_r0_p2'  'make_treatment_r0_b0_p2'  'make_treatment_r0_b0_p2')
+('load_at_depot_r0_b0'  'move_r0_p4'  'move_r0_p4'  'make_treatment_r0_b0_p4'  'make_treatment_r0_b0_p4')
+('load_at_depot_r0_b0'  'move_r0_p3'  'move_r0_p3'  'make_treatment_r0_b0_p3'  'make_treatment_r0_b0_p3')
+('move_r0_p0'  'move_r0_p0'  'make_treatment_r0_b0_p0'  'make_treatment_r0_b0_p0'  'load_r0_b0_p0')
+('move_r0_p2'  'move_r0_p2'  'make_treatment_r0_b0_p2'  'make_treatment_r0_b0_p2'  'load_r0_b0_p2')
+('move_r0_p3'  'move_r0_p3'  'make_treatment_r0_b0_p3'  'make_treatment_r0_b0_p3'  'load_r0_b0_p3')
+('move_r0_p4'  'move_r0_p4'  'make_treatment_r0_b0_p4'  'make_treatment_r0_b0_p4'  'load_r0_b0_p4')
