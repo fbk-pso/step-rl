@@ -1,13 +1,4 @@
-Licence
--------
-
-These files are released with the sole purpose of inspection by AAAI reviewers.
-
-Any other use is forbidden.
-
-
-Files
------
+# Supplementary materials for paper *Automatic Selection of Macro-Events for Heuristic-Search Temporal Planning*
 
 The files are organized as follows.
 
@@ -26,8 +17,7 @@ The files are organized as follows.
 * optimal_sets_macros: for each benchmark and for each set contains optimal set of macros selected for every usage. For lack of space, it is possible to find all candidate macro-events at the following link : https://zenodo.org/records/13342809 
 
 
-Commands
---------
+## Commands
 
 * To run a planner on an ANML instance: add tamerlite dir to the PYTHONPATH. Then, use the following command: python3 scripts/runner.py solvehsym -r <path to output dir> -d testing_sets/<benchmark>/domain.anml -t testing_sets/<benchmark>/<set>/testing_set/<instance.anml> -z <heuristics> 
 
