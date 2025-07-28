@@ -19,17 +19,26 @@ The files are organized as follows.
 
 ## Commands
 
-* To run a planner on an ANML instance: add tamerlite dir to the PYTHONPATH. Then, use the following command: python3 scripts/runner.py solvehsym -r <path to output dir> -d testing_sets/<benchmark>/domain.anml -t testing_sets/<benchmark>/<set>/testing_set/<instance.anml> -z <heuristics> 
+To run a planner on an ANML instance: add tamerlite dir to the PYTHONPATH. Then, use the following command: 
+```
+python3 scripts/runner.py solvehsym -r <path to output dir> -d testing_sets/<benchmark>/domain.anml -t testing_sets/<benchmark>/<set>/testing_set/<instance.anml> -z <heuristics> 
+```
 
-To launch solver with macros add the flags: -ma optimal_sets_macros/<benchmark>/<set>/best_macros_<macros_usage>.csv -u <macros_usage>. 
+To launch solver with macros add the flags: 
+```
+-ma optimal_sets_macros/<benchmark>/<set>/best_macros_<macros_usage>.csv -u <macros_usage>
+```
+
+where
+- benchmark: 'kitting', 'majsp'.
+- heuristics: 'hadd', 'hff'.
+- macros_usage: 'FA-', 'FA+', 'PA-', 'PA+'.
 
 
--> benchmark: 'kitting', 'majsp'.
--> heuristics: 'hadd', 'hff'.
--> macros_usage: 'FA-', 'FA+', 'PA-', 'PA+'.
-
-
-* To run macros selection: python3 scripts/select_macros.py -i macros_selection/<benchmark>/<set>/macros.csv -j macros_selection/<benchmark>/<set>/episodes.log.csv -o <path to output dir> -d <benchamrk> -u <macros_usage> 
+To run macros selection: 
+```
+python3 scripts/select_macros.py -i macros_selection/<benchmark>/<set>/macros.csv -j macros_selection/<benchmark>/<set>/episodes.log.csv -o <path to output dir> -d <benchamrk> -u <macros_usage>
+``` 
 
 For cases 'PA+' 'FA+', add the flag -t <timeout> (we used timeout=1800).
 
