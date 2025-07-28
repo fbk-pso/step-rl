@@ -1,4 +1,4 @@
-# Supplementary materials for paper *Automatic Selection of Macro-Events for Heuristic-Search Temporal Planning*
+# Supplementary materials for paper *Automatic Selection of Macro-Events for Heuristic-Search Temporal Planning*, AAAI 2025
 
 Authors: Alessandro La Farciola, Alessandro Valentini, and Andrea Micheli.
 

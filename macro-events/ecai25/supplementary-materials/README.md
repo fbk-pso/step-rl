@@ -1,4 +1,4 @@
-# Supplementary materials for paper *Learning of Lifted Macro-Events for Heuristic-Search Temporal Planning*
+# Supplementary materials for paper *Learning of Lifted Macro-Events for Heuristic-Search Temporal Planning*, ECAI 2025
 
 Authors: Alessandro La Farciola, Alessandro Valentini, and Andrea Micheli.
 
