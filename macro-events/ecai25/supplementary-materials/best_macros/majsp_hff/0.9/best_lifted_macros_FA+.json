@@ -1,0 +1,443 @@
+[
+    [
+        {
+            "action": "load_at_depot",
+            "variables": [
+                "v0",
+                "v2"
+            ]
+        },
+        {
+            "action": "move",
+            "variables": [
+                "v0",
+                "v1"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "load",
+            "variables": [
+                "v2",
+                "v1",
+                "v0"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v2",
+                "v1",
+                "v0"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v2",
+                "v1",
+                "v0"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "load",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "load",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "move",
+            "variables": [
+                "v2",
+                "v0"
+            ]
+        },
+        {
+            "action": "move",
+            "variables": [
+                "v2",
+                "v0"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v2",
+                "v1",
+                "v0"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v2",
+                "v1",
+                "v0"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "move",
+            "variables": [
+                "v1",
+                "v0"
+            ]
+        },
+        {
+            "action": "move",
+            "variables": [
+                "v1",
+                "v0"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "move",
+            "variables": [
+                "v2",
+                "v1"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v2",
+                "v0",
+                "v1"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v2",
+                "v0",
+                "v1"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v2",
+                "v0",
+                "v1"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v2",
+                "v1",
+                "v0"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v2",
+                "v1",
+                "v0"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v2",
+                "v1",
+                "v0"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v2",
+                "v0",
+                "v1"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v2",
+                "v0",
+                "v1"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v2",
+                "v0",
+                "v1"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v2",
+                "v0",
+                "v1"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "move",
+            "variables": [
+                "v1",
+                "v2"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "move",
+            "variables": [
+                "v1",
+                "v2"
+            ]
+        },
+        {
+            "action": "move",
+            "variables": [
+                "v1",
+                "v2"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "load_at_depot",
+            "variables": [
+                "v1",
+                "v0"
+            ]
+        },
+        {
+            "action": "move",
+            "variables": [
+                "v1",
+                "v2"
+            ]
+        },
+        {
+            "action": "move",
+            "variables": [
+                "v1",
+                "v2"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "move",
+            "variables": [
+                "v1",
+                "v2"
+            ]
+        },
+        {
+            "action": "move",
+            "variables": [
+                "v1",
+                "v2"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v1",
+                "v0",
+                "v2"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "move",
+            "variables": [
+                "v2",
+                "v1"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v2",
+                "v0",
+                "v1"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v2",
+                "v0",
+                "v1"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v2",
+                "v0",
+                "v1"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v2",
+                "v0",
+                "v1"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "move",
+            "variables": [
+                "v2",
+                "v0"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v2",
+                "v1",
+                "v0"
+            ]
+        },
+        {
+            "action": "make_treatment",
+            "variables": [
+                "v2",
+                "v1",
+                "v0"
+            ]
+        }
+    ]
+]

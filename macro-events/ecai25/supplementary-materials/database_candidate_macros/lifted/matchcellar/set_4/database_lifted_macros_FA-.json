@@ -1,0 +1,514 @@
+[
+    [
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "1002/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "1002/179"
+        },
+        {
+            "size_ground_ma_in_database": "147"
+        }
+    ],
+    [
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "823/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "823/179"
+        },
+        {
+            "size_ground_ma_in_database": "308"
+        }
+    ],
+    [
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "1002/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "1002/179"
+        },
+        {
+            "size_ground_ma_in_database": "147"
+        }
+    ],
+    [
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "1002/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "1002/179"
+        },
+        {
+            "size_ground_ma_in_database": "30"
+        }
+    ],
+    [
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "1646/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "1646/179"
+        },
+        {
+            "size_ground_ma_in_database": "504"
+        }
+    ],
+    [
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "1646/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "1646/179"
+        },
+        {
+            "size_ground_ma_in_database": "536"
+        }
+    ],
+    [
+        {
+            "action": "light_match",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "2004/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "2004/179"
+        },
+        {
+            "size_ground_ma_in_database": "147"
+        }
+    ],
+    [
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "2004/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "2004/179"
+        },
+        {
+            "size_ground_ma_in_database": "147"
+        }
+    ],
+    [
+        {
+            "action": "light_match",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "2469/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "2469/179"
+        },
+        {
+            "size_ground_ma_in_database": "536"
+        }
+    ],
+    [
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "2469/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "2469/179"
+        },
+        {
+            "size_ground_ma_in_database": "504"
+        }
+    ],
+    [
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v3"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "2469/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "2469/179"
+        },
+        {
+            "size_ground_ma_in_database": "666"
+        }
+    ],
+    [
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "3006/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "3006/179"
+        },
+        {
+            "size_ground_ma_in_database": "147"
+        }
+    ],
+    [
+        {
+            "action": "light_match",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "3292/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "3292/179"
+        },
+        {
+            "size_ground_ma_in_database": "504"
+        }
+    ],
+    [
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v3"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v3"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "3292/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "3292/179"
+        },
+        {
+            "size_ground_ma_in_database": "666"
+        }
+    ],
+    [
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v3"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "3292/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "3292/179"
+        },
+        {
+            "size_ground_ma_in_database": "666"
+        }
+    ],
+    [
+        {
+            "action": "light_match",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "cumulative_diff_depth_negative": "3292/179"
+        },
+        {
+            "cumulative_diff_depth_positive": "3292/179"
+        },
+        {
+            "size_ground_ma_in_database": "536"
+        }
+    ]
+]

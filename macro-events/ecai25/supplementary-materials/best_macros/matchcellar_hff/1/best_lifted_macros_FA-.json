@@ -1,0 +1,92 @@
+[
+    [
+        {
+            "action": "light_match",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v1"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "light_match",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v1"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "light_match",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v2"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "mend_fuse",
+            "variables": [
+                "v1"
+            ]
+        },
+        {
+            "action": "light_match",
+            "variables": [
+                "v2"
+            ]
+        }
+    ]
+]

@@ -1,0 +1,198 @@
+[
+    [
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "load",
+            "variables": [
+                "v5",
+                "v3",
+                "v7",
+                "v4",
+                "v0"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v5",
+                "v3",
+                "v7",
+                "v4",
+                "v0"
+            ]
+        },
+        {
+            "action": "move",
+            "variables": [
+                "v5",
+                "v3",
+                "v1"
+            ]
+        },
+        {
+            "action": "move",
+            "variables": [
+                "v5",
+                "v3",
+                "v1"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v5",
+                "v1",
+                "v6",
+                "v4",
+                "v2"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "unload",
+            "variables": [
+                "v1",
+                "v2",
+                "v0"
+            ]
+        },
+        {
+            "action": "unload",
+            "variables": [
+                "v1",
+                "v2",
+                "v0"
+            ]
+        },
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "unload",
+            "variables": [
+                "v1",
+                "v2",
+                "v0"
+            ]
+        },
+        {
+            "action": "unload",
+            "variables": [
+                "v1",
+                "v2",
+                "v0"
+            ]
+        },
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        },
+        {
+            "action": "prepare_unload",
+            "variables": [
+                "v0"
+            ]
+        }
+    ],
+    [
+        {
+            "action": "load",
+            "variables": [
+                "v2",
+                "v0",
+                "v4",
+                "v1",
+                "v3"
+            ]
+        },
+        {
+            "action": "load",
+            "variables": [
+                "v2",
+                "v0",
+                "v4",
+                "v1",
+                "v3"
+            ]
+        }
+    ]
+]

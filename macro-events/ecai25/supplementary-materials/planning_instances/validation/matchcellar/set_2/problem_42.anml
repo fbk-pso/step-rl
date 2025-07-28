@@ -1,0 +1,33 @@
+type Match;
+type Fuse;
+fluent boolean handfree;
+fluent boolean light;
+fluent boolean match_used(Match match);
+fluent boolean fuse_mended(Fuse fuse);
+constant float [0.0, 6.0] mend_fuse_duration;
+action light_match(Match m) {
+   duration >= 7 and duration <= 7;
+   [ start ] (not match_used(m));
+   [ start ] match_used(m) := true;
+   [ start ] light := true;
+   [ end ] light := false;
+};
+action mend_fuse(Fuse f) {
+   duration >= mend_fuse_duration and duration <= mend_fuse_duration;
+   [ start ] handfree;
+   [ start, end ] light;
+   [ start ] handfree := false;
+   [ end ] fuse_mended(f) := true;
+   [ end ] handfree := true;
+};
+instance Match m13, m14;
+instance Fuse f13, f14;
+[ start ] handfree := true;
+[ start ] light := false;
+[ start ] match_used(m13) := false;
+[ start ] match_used(m14) := false;
+[ start ] fuse_mended(f13) := false;
+[ start ] fuse_mended(f14) := false;
+mend_fuse_duration := (6/1);
+[ end ] fuse_mended(f13);
+[ end ] fuse_mended(f14);
