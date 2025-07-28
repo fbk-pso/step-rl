@@ -1,5 +1,7 @@
 # Supplementary materials for paper *Learning of Lifted Macro-Events for Heuristic-Search Temporal Planning*
 
+Authors: Alessandro La Farciola, Alessandro Valentini, and Andrea Micheli.
+
 The files are organized as follows.
 
 - paper appendix

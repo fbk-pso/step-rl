@@ -1,5 +1,7 @@
 # Supplementary materials for paper *Automatic Selection of Macro-Events for Heuristic-Search Temporal Planning*
 
+Authors: Alessandro La Farciola, Alessandro Valentini, and Andrea Micheli.
+
 The files are organized as follows.
 
 * testing_sets: contains testing instances for each benchmark and for each set (4-fold splitting).
