@@ -1,0 +1,31 @@
+{
+    "learning_config" : {
+        "max_episodes": [25000, 50000, 100000],
+        "max_epsilon": [0.5],
+        "min_epsilon": [0.001],
+        "batch_size": [1000],
+        "memory_size": [50000],
+        "learning_rate": [0.0001],
+        "max_step": [200],
+        "reward_crumb": [0.00001],
+        "bootstrap_trunc": ["const", "sym"],
+        "dump_traces": [false]
+    },
+    "learning_planning_config" : {
+        "gamma": [0.99],
+        "layer_size": [100],
+        "reward_signal": ["bin"],
+        "deltah_cnt": [0],
+        "residual": [false, true],
+        "learning_heuristic": ["hff"]
+    },
+
+    "problems_config" : {
+        "problem_package": "examples.majsp",
+        "problem_class": "MaJSPGenerator",
+        "problem_params": [[1,4], [1,4], [1,3], 6],
+        "k-fold_cross-validation" : true,
+        "k" : 5
+    },
+    "runs" : 2
+}
