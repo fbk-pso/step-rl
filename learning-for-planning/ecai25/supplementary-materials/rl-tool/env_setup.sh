@@ -1,0 +1,3 @@
+RLTOOL_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")"; pwd -P)
+TAMERLITE_DIR="$RLTOOL_DIR"/tamerlite
+export PYTHONPATH="$RLTOOL_DIR:$TAMERLITE_DIR:$PYTHONPATH"
